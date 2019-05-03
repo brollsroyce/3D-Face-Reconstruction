@@ -1,7 +1,7 @@
 # 3D-Face-Reconstruction
 The presented codes allow you to reconstruct a 3D face using three 2D images.
 Please calibrate your camera and save your camera parameters as `cameraParams` before proceding.
-Run `main.m` with the correct images loaded in it.
+Run `main_code.m` with the correct images loaded in it.
 If you want to use your own images, replace/add them in the 'Test' folder.
 
 ## How this works
